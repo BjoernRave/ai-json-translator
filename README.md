@@ -1,5 +1,7 @@
 # Translate or fill the empty strings of your JSON locales with the help of Chat-GPT
 
+[Demo](https://ai-json-translator.vercel.app/)
+
 To get this running either:
 
 - create a `.env` file with your `OPENAI_KEY`
