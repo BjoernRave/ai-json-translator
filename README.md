@@ -1,6 +1,6 @@
 # Translate or fill the empty strings of your JSON locales with the help of Chat-GPT
 
-If you are looking for a CLI-option which you can integrate into your development flow, checkout out my other project: https://github.com/BjoernRave/i18n-magic
+If you are looking for a CLI-option which you can integrate into your development flow, checkout out my other project: [i18n-magic](https://github.com/BjoernRave/i18n-magic)
 
 [Demo](https://ai-json-translator.vercel.app/)
 
